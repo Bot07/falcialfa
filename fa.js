@@ -14,7 +14,8 @@ var prefix = 'fa!'
 
 
 
-client.on("ready", () => {client.user.setGame('fd!yardım | Falına bakmamı ister misin? | Sunucu Sayısı: ' + client.guilds.size , 'https://twitch.tv/GardropFuat') 
+
+client.on("ready", () => {client.user.setGame('Yapım Aşamasında' , 'https://twitch.tv/FalcıBeta')  
 
 
 
